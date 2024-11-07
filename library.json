@@ -1,0 +1,12 @@
+{
+  "title": "ModelViewer Script Loader ",
+  "description": "support resource for ModelViewer",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 0,
+  "author": "BH",
+  "license": "MIT",
+  "machineName": "H5P.ModelViewerScript",
+  "preloadedJs": [{ "path": "customlib.js" }]
+}
