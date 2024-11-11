@@ -5,7 +5,7 @@
   // unpkg
   //const modelViewerModuleUrl = 'https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js';
   //  local
-  const modelViewerModuleUrl = './modelviewer.js';
+  const modelViewerModuleUrl = './modelViewer.js';
 
   await import(modelViewerModuleUrl);
 })();
